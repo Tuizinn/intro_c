@@ -1,7 +1,5 @@
 Peça ao usuário para digitar três notas entre 0 e 10.
-Calcular a média 
-
-(use somente a parte inteira do resultado)   e classificar a média usando a função switch-case.
+Calcular a média (use somente a parte inteira do resultado)   e classificar a média usando a função switch-case.
 
 Se média <6 "insuficiente"
 
